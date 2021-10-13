@@ -9,6 +9,11 @@ Python code: stock_perfromance.py
 
 For deployment: streamlit run app_stock.py
 
+**PORTFOLIO OUTPUT:**
+
+![image](https://user-images.githubusercontent.com/67577967/137080654-d422a359-9047-4925-a763-b58af3a2aae8.png)
+
+
 **STREAMLIT OUTPUT:**
 
 ![WhatsApp Image 2021-10-13 at 10 16 48 AM](https://user-images.githubusercontent.com/67577967/137079419-629fe3bf-4b28-4a07-ab36-f8a4f862d5d9.jpeg)
