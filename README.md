@@ -7,8 +7,6 @@ Link: https://finance.yahoo.com/
 
 Python code: stock_perfromance.py
 
-For deployment: streamlit run app_stock.py
-
 **SAMPLE PORTFOLIO OUTPUT:**
 
 ![image](https://user-images.githubusercontent.com/67577967/137080654-d422a359-9047-4925-a763-b58af3a2aae8.png)
